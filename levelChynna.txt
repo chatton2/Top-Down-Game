@@ -1,0 +1,30 @@
+28 16
+Examples/WaterStream
+
+Objects
+k knot.mesh 1.7 0.0 0.05
+d dragon.mesh 5.5 0.0 0.04
+t tudorhouse.mesh 6.0 0.0 0.01
+p penguin.mesh 1.7 0.0 .05
+
+Characters
+s sinbad.mesh 7.3 3
+b sinbad.mesh 7.3 3
+
+World
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
+weooooooooooooooooooooooooew
+woosooooooooooooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooGoooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooooooooooooooooow
+woooooooooooooobooooboooooow
+woooooooooooooooooooooooooow
+woooooooooobooooooooooooooow
+woooooooooooooooooobooooooow
+weooooooooooooooooooooooooew
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
